@@ -1,3 +1,4 @@
+
 <html lang="en" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
@@ -107,7 +108,7 @@
              <div class="absolute bottom-0 left-1/2 -translate-x-1/2 w-[60rem] h-48 bg-gradient-to-t from-violet-500/50 to-transparent blur-3xl"></div>
         </div>
         <h1 class="text-5xl md:text-8xl font-black tracking-tighter animated-gradient-title drop-shadow-[0_0_15px_rgba(255,255,255,0.1)]">Rousseau Reads Memes</h1>
-        <p class="mt-4 text-lg md:text-xl text-gray-400 max-w-2xl mx-auto">A cosmic deep dive into political philosophy through the internet's weirdest art form.</p>
+        <p class="mt-4 text-lg md:text-xl text-gray-400 max-w-2xl mx-auto">A deep dive into political philosophy through the internet's weirdest art form.</p>
     </header>
 
     <!-- Main Content -->
